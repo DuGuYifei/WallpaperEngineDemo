@@ -1,4 +1,6 @@
 # WallpaperEngine
+#[新版本](https://github.com/DuGuYifei/WallPaperEngine)
+
 learn from https://github.com/3150601355/VideoWallPaperDemo (bilibili)
 
 use cpp
